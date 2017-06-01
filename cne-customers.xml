@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers xmlns="http://www.demandware.com/xml/impex/customer/2006-10-31">
+    <customer customer-no="00003502">
+        <credentials>
+            <login>bnkr2@test.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$g2RAgav3PLvpIQq6Wa8NVA==$RPUai8BMiBfDRPhXADPVIzHBL14pPylUFvGXUYvHTow=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>B</first-name>
+            <second-name/>
+            <last-name>R</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>bnkr2@test.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-05-29T10:55:24.000Z</creation-date>
+            <last-login-time>2017-05-29T10:55:24.000Z</last-login-time>
+            <last-visit-time>2017-05-29T10:55:24.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <note/>
+    </customer>
+
+    <customer customer-no="00003002">
+        <credentials>
+            <login>bnkr@test.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$zmwKZGE7b5TiTwTCAz3l8A==$xaHl4zpfpO1V9oDeQPt1wf3A4Aaf1KUcGBNz2Gkfl9s=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>R</first-name>
+            <second-name/>
+            <last-name>N</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>bnkr@test.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-05-29T09:23:17.000Z</creation-date>
+            <last-login-time>2017-05-29T09:23:18.000Z</last-login-time>
+            <last-visit-time>2017-05-29T09:23:18.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <note/>
+    </customer>
+
+    <customer customer-no="00003503">
+        <credentials>
+            <login>bnkr3@test.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$8tjFOIiHNnQggf05BgnQFg==$Q5FG8xQ44Z5NmDubm8FtyJHgfT1rhvdsExC+0GZ+zxo=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>B</first-name>
+            <second-name/>
+            <last-name>R</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>bnkr3@test.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-05-29T10:58:41.000Z</creation-date>
+            <last-login-time>2017-05-29T10:58:41.000Z</last-login-time>
+            <last-visit-time>2017-05-29T10:58:41.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <note/>
+    </customer>
+
+    <customer customer-no="00003501">
+        <credentials>
+            <login>bnkr1@test.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$CqeSncBz450K3vis05RKDg==$RbKunGUpiCvQfnQ3U9u2uSP/0vqvu5XC9pMyE3PGsAI=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>R</first-name>
+            <second-name/>
+            <last-name>B</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>bnkr1@test.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-05-29T10:46:06.000Z</creation-date>
+            <last-login-time>2017-05-29T10:46:39.000Z</last-login-time>
+            <last-visit-time>2017-05-29T10:46:39.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <note/>
+    </customer>
+
+    <customer customer-no="00000002">
+        <credentials>
+            <login>narendra.reddy@ecommera.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$QWHJLpYi+DWxh+/iZPA3ng==$vMp65q4AkqQe0/Wvlf0V4gGuA4ey/bLyjcbz1ecxNYI=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>N</first-name>
+            <second-name/>
+            <last-name>R</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>narendra.reddy@ecommera.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-04-13T07:27:25.000Z</creation-date>
+            <last-login-time>2017-05-30T09:25:25.000Z</last-login-time>
+            <last-visit-time>2017-05-31T10:53:43.830Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <addresses>
+            <address address-id="REDDY" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>Narendra Kumar</first-name>
+                <second-name/>
+                <last-name>Reddy</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>99 GREENE STREET</address1>
+                <address2>Address Line2</address2>
+                <suite/>
+                <postbox/>
+                <city>New York</city>
+                <postal-code>10012</postal-code>
+                <state-code>NY</state-code>
+                <country-code>us</country-code>
+                <phone>2112111111</phone>
+            </address>
+            <address address-id="96657" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Fn</first-name>
+                <second-name/>
+                <last-name>LN</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>FPO</city>
+                <postal-code>96657</postal-code>
+                <state-code>OTHER</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="AFBase" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>FN</first-name>
+                <second-name/>
+                <last-name>LN</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1100-1115 W Richmond Rd</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Fairchild Air Force Base</city>
+                <postal-code>99011</postal-code>
+                <state-code>WA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="Arizona" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Gainey Ranch</first-name>
+                <second-name/>
+                <last-name>Corporate Center</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>8800 North Gainey Center Drive,</address1>
+                <address2>Suite 205</address2>
+                <suite/>
+                <postbox/>
+                <city>Scottsdale</city>
+                <postal-code>85258</postal-code>
+                <state-code>AZ</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="CA-94945" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Narendra</first-name>
+                <second-name/>
+                <last-name>Reddy</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>7250 Redwood Blvd.</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Novato</city>
+                <postal-code>94945</postal-code>
+                <state-code>CA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="New York" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Narendra Kumar</first-name>
+                <second-name/>
+                <last-name>Reddy</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>Address Line2</address1>
+                <address2>99 Greene St</address2>
+                <suite/>
+                <postbox/>
+                <city>New York</city>
+                <postal-code>10012</postal-code>
+                <state-code>NY</state-code>
+                <country-code>US</country-code>
+                <phone>2112111111</phone>
+            </address>
+            <address address-id="PO BOX 1022" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>FN</first-name>
+                <second-name/>
+                <last-name>LN</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>POB 65502</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>TUSCON</city>
+                <postal-code>85728</postal-code>
+                <state-code>AZ</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="Virginia" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>FN</first-name>
+                <second-name/>
+                <last-name>LN</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>12110 Sunset Hills Road</address1>
+                <address2>3rd Floor</address2>
+                <suite/>
+                <postbox/>
+                <city>Reston</city>
+                <postal-code>20190</postal-code>
+                <state-code>VA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="WA POBOX" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>JOHN</first-name>
+                <second-name/>
+                <last-name>SMITH</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>100 MAIN ST</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>SEATTLE</city>
+                <postal-code>98104</postal-code>
+                <state-code>WA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+    <customer customer-no="00000501">
+        <credentials>
+            <login>swapnil.dole@ecommera.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$RyKcZX+mkRsXNwA+L5bCHA==$0E2P461BZMoVjSwjZ4PnCKf/WAl+yglTCuxI8K2rDj8=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>Swapnil</first-name>
+            <second-name/>
+            <last-name>Dole</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>swapnil.dole@ecommera.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-04-17T08:47:05.000Z</creation-date>
+            <last-login-time>2017-05-09T13:38:01.000Z</last-login-time>
+            <last-visit-time>2017-05-09T13:38:01.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <addresses>
+            <address address-id="Pandharpur" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>Swapnil</first-name>
+                <second-name/>
+                <last-name>Dole</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>Tarapur</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Pandharpur</city>
+                <postal-code>SW42 4RG</postal-code>
+                <state-code>Maharashtra</state-code>
+                <country-code>gb</country-code>
+                <phone>01222 555 555</phone>
+            </address>
+            <address address-id="Pandharpur-1" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Swapnil</first-name>
+                <second-name/>
+                <last-name>Dole</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>Tarapur</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Pandharpur</city>
+                <postal-code>99501</postal-code>
+                <state-code>AK</state-code>
+                <country-code>us</country-code>
+                <phone>3333333333</phone>
+            </address>
+            <address address-id="Pandharpur-2" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Swapnil</first-name>
+                <second-name/>
+                <last-name>Dole</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>Tarapur</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Pandharpur</city>
+                <postal-code>11012</postal-code>
+                <state-code>AK</state-code>
+                <country-code>US</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="Reston" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Swapnil</first-name>
+                <second-name/>
+                <last-name>Dole</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>12110 Sunset Hills Road</address1>
+                <address2>12110 Sunset Hills Road Chancery Station Cir</address2>
+                <suite/>
+                <postbox/>
+                <city>Reston</city>
+                <postal-code>20190</postal-code>
+                <state-code>VA</state-code>
+                <country-code>US</country-code>
+                <phone>3333333333</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+    <customer customer-no="00000001">
+        <credentials>
+            <login>ritwik.khandekar@ecommera.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$WXnLpMCDcF6CshMeiSW3Uw==$+8Lze4vo8k78D8GxpmfJA+BDEX8xkzXCgQeLVEeP/M0=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>Ritwik</first-name>
+            <second-name/>
+            <last-name>Khandekar</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>ritwik.khandekar@ecommera.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-03-30T06:46:20.000Z</creation-date>
+            <last-login-time>2017-05-29T13:54:08.000Z</last-login-time>
+            <last-visit-time>2017-05-29T13:54:08.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <addresses>
+            <address address-id="Irvine" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>Ritwik</first-name>
+                <second-name/>
+                <last-name>Khandekar</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>4199 Campus Dr Ste 550</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Irvine</city>
+                <postal-code>92612</postal-code>
+                <state-code>CA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="Irvine-1" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Ritwik</first-name>
+                <second-name/>
+                <last-name>Khandekar</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>4199 Campus Dr Ste 550</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Irvine</city>
+                <postal-code>92612</postal-code>
+                <state-code>CA</state-code>
+                <country-code>US</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+    <customer customer-no="00001501">
+        <credentials>
+            <login>pranav.mundada@ecommera.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$9v9AyqY1L8/+p8Wl21lYXQ==$S5VeRqMvRuKc8gDuhlkDGQFpgs5E0OmVsa6ogcoRxE4=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>Pranav</first-name>
+            <second-name/>
+            <last-name>Mundada</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>pranav.mundada@ecommera.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-05-04T12:18:33.000Z</creation-date>
+            <last-login-time>2017-05-31T12:34:17.482Z</last-login-time>
+            <last-visit-time>2017-05-31T12:34:17.482Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <addresses>
+            <address address-id="a1" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>Pranav</first-name>
+                <second-name/>
+                <last-name>Mundada</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1345, Old Cheney Rd</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Lincoln</city>
+                <postal-code>68512</postal-code>
+                <state-code>NE</state-code>
+                <country-code>us</country-code>
+                <phone>4024232682</phone>
+            </address>
+            <address address-id="Lincoln" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Pranav</first-name>
+                <second-name/>
+                <last-name>Mundada</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1345, Old Cheney Rd</address1>
+                <address2>1345, Old Cheney Rd Galloway Ave</address2>
+                <suite/>
+                <postbox/>
+                <city>Lincoln</city>
+                <postal-code>68512</postal-code>
+                <state-code>NE</state-code>
+                <country-code>US</country-code>
+                <phone>4024232682</phone>
+            </address>
+            <address address-id="Lincoln-1" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Pranav</first-name>
+                <second-name/>
+                <last-name>Mundada</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>5521</address1>
+                <address2>Building a, Apt 1-4, 5521 Canterbury Ln</address2>
+                <suite/>
+                <postbox/>
+                <city>Lincoln</city>
+                <postal-code>68512</postal-code>
+                <state-code>NE</state-code>
+                <country-code>US</country-code>
+                <phone>4024232682</phone>
+            </address>
+            <address address-id="Lincoln-2" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Pranav</first-name>
+                <second-name/>
+                <last-name>Mundada</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>5521</address1>
+                <address2>5521 Bancroft Ave</address2>
+                <suite/>
+                <postbox/>
+                <city>Lincoln</city>
+                <postal-code>68506</postal-code>
+                <state-code>NE</state-code>
+                <country-code>US</country-code>
+                <phone>4024232682</phone>
+            </address>
+            <address address-id="Lincoln-3" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Pranav</first-name>
+                <second-name/>
+                <last-name>Mundada</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>6200</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Lincoln</city>
+                <postal-code>68507</postal-code>
+                <state-code>NE</state-code>
+                <country-code>US</country-code>
+                <phone>4024232682</phone>
+            </address>
+            <address address-id="Lincoln-4" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Pranav</first-name>
+                <second-name/>
+                <last-name>Mundada</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1345</address1>
+                <address2>1345 R St</address2>
+                <suite/>
+                <postbox/>
+                <city>Lincoln</city>
+                <postal-code>68508</postal-code>
+                <state-code>NE</state-code>
+                <country-code>US</country-code>
+                <phone>4024232682</phone>
+            </address>
+            <address address-id="Lincoln-5" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Pranav</first-name>
+                <second-name/>
+                <last-name>Mundada</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1345</address1>
+                <address2>1345</address2>
+                <suite/>
+                <postbox/>
+                <city>Lincoln</city>
+                <postal-code>68503</postal-code>
+                <state-code>NE</state-code>
+                <country-code>US</country-code>
+                <phone>4024232682</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+    <customer customer-no="00002501">
+        <credentials>
+            <login>test@ecommera.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$UOGmHTK/WUfTfalI5ksrWQ==$emtm9AYmzz3h///nTbO9Vl3obf/QCXZmDMOOusHQNgk=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>kukalakuntla</first-name>
+            <second-name/>
+            <last-name>k</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>test@ecommera.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-05-17T11:08:24.000Z</creation-date>
+            <last-login-time>2017-05-17T12:31:00.000Z</last-login-time>
+            <last-visit-time>2017-05-17T12:31:00.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <note/>
+    </customer>
+
+    <customer customer-no="00002001">
+        <credentials>
+            <login>srinivasa.kukalakunt@ecommera.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$Rkn8Pi0KLIQh1Mcf8tqrGQ==$dWv+OYm5ZWUeQpGulwzdLU+Qegxl35YW9/CZoYuwRSg=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>srinivas</first-name>
+            <second-name/>
+            <last-name>rao</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>srinivasa.kukalakunt@ecommera.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-05-09T08:39:45.000Z</creation-date>
+            <last-login-time>2017-05-31T04:40:28.000Z</last-login-time>
+            <last-visit-time>2017-05-31T04:40:28.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <addresses>
+            <address address-id="one" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>srinivas</first-name>
+                <second-name/>
+                <last-name>rao</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>60 Baylis</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Melville</city>
+                <postal-code>11747</postal-code>
+                <state-code>NY</state-code>
+                <country-code>US</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="Melville" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>srinivas</first-name>
+                <second-name/>
+                <last-name>rao</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>60 Baylis Rd</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Melville</city>
+                <postal-code>11747</postal-code>
+                <state-code>NY</state-code>
+                <country-code>US</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="two" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>lak</first-name>
+                <second-name/>
+                <last-name>shmi</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1345 Old Cheney Rd</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Lincoln</city>
+                <postal-code>68512</postal-code>
+                <state-code>NE</state-code>
+                <country-code>US</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+    <customer customer-no="00001001">
+        <credentials>
+            <login>ritwik.khandekar@ecommera.co.uk</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$F/TegEpBA0k8ym8/cyTnZg==$TIUYCzbCz/WAaQsS5LbFdfdaXdWIjljCrlFNIG8BVEM=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>Ritwik</first-name>
+            <second-name/>
+            <last-name>Khandekar</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>ritwik.khandekar@ecommera.co.uk</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-04-24T14:23:41.000Z</creation-date>
+            <last-login-time>2017-04-26T13:02:07.000Z</last-login-time>
+            <last-visit-time>2017-04-26T13:02:07.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <addresses>
+            <address address-id="asdasdasd" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>Ritwik</first-name>
+                <second-name/>
+                <last-name>Khandekar</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>asdasdsa</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>asdasdasd</city>
+                <postal-code>92612</postal-code>
+                <state-code>CA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+    <customer customer-no="00003001">
+        <credentials>
+            <login>harshad.erande@ecommera.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$96AMqmbn671T3f33QgpKLw==$j9UGt3mmBi+aRISxtB7ye2MsB9aOUlF/MdYp1lyk9TI=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>harshad</first-name>
+            <second-name/>
+            <last-name>erande</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>harshad.erande@ecommera.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-05-29T08:36:57.000Z</creation-date>
+            <last-login-time>2017-05-29T08:36:57.000Z</last-login-time>
+            <last-visit-time>2017-05-29T08:36:57.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <note/>
+    </customer>
+
+</customers>
