@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customers xmlns="http://www.demandware.com/xml/impex/customer/2006-10-31">
-    <customer customer-no="00003502">
+    <customer customer-no="C00003502">
         <credentials>
             <login>bnkr2@test.com</login>
             <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$g2RAgav3PLvpIQq6Wa8NVA==$RPUai8BMiBfDRPhXADPVIzHBL14pPylUFvGXUYvHTow=</password>
@@ -11,9 +11,9 @@
         <profile>
             <salutation/>
             <title/>
-            <first-name>Bostan</first-name>
+            <first-name>Suraj</first-name>
             <second-name/>
-            <last-name>Robert</last-name>
+            <last-name>Roy</last-name>
             <suffix/>
             <company-name/>
             <job-title/>
