@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers xmlns="http://www.demandware.com/xml/impex/customer/2006-10-31">
+    <customer customer-no="00000002">
+        <credentials>
+            <login>narendra.reddy@ecommera.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$QWHJLpYi+DWxh+/iZPA3ng==$vMp65q4AkqQe0/Wvlf0V4gGuA4ey/bLyjcbz1ecxNYI=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation>Mr</salutation>
+            <title>Mr</title>
+            <first-name>Narebdra Kumar Reddy</first-name>
+            <second-name>Kumar</second-name>
+            <last-name>Boreddy</last-name>
+            <suffix>Narebdra</suffix>
+            <company-name>ecommera</company-name>
+            <job-title>Mr</job-title>
+            <email>narendra.reddy@ecommera.com</email>
+            <phone-home>02288888888</phone-home>
+            <phone-business>02288888888</phone-business>
+            <phone-mobile>02288888888</phone-mobile>
+            <fax>02288888888</fax>
+            <birthday>2017-06-06Z</birthday>
+            <gender>1</gender>
+            <creation-date>2017-04-13T07:27:25.000Z</creation-date>
+            <last-login-time>2017-06-07T08:47:21.000Z</last-login-time>
+            <last-visit-time>2017-06-07T08:47:21.000Z</last-visit-time>
+            <preferred-locale>en_GB</preferred-locale> 
+            <custom-attributes>
+				<custom-attribute attribute-id="nextBirthday">2018-06-06Z</custom-attribute>
+				<custom-attribute attribute-id="taxID">1234xyz</custom-attribute>
+				<custom-attribute attribute-id="taxIDType">
+					<value>Arbitrary</value>
+					<value>CPF</value>
+				</custom-attribute>
+                <custom-attribute attribute-id="lastModifiedTime">2017-06-07T08:50:00.000+0000</custom-attribute>
+				<custom-attribute attribute-id="PayPalBAID">zxsdds122323</custom-attribute>
+				<custom-attribute attribute-id="ScreenName">Alex</custom-attribute>
+				<custom-attribute attribute-id="businessgiftaccount">false</custom-attribute>
+				<custom-attribute attribute-id="emailOptinCardNumber">123zyx</custom-attribute>
+				<custom-attribute attribute-id="emailPreferences">xyz123</custom-attribute>
+				<custom-attribute attribute-id="familyStatus">
+					<value>abc</value>
+					<value>def</value>
+					<value>ghe</value>
+				</custom-attribute>
+				<custom-attribute attribute-id="isEmailOptin">false</custom-attribute>
+				<custom-attribute attribute-id="isPlatinumRewardMember">true</custom-attribute>
+				<custom-attribute attribute-id="legacyOrders">123qwe</custom-attribute>
+				<custom-attribute attribute-id="loyaltyCardNo">qwer456</custom-attribute>
+				<custom-attribute attribute-id="loyaltyCardPinNo">rfgtt5446</custom-attribute>
+				<custom-attribute attribute-id="nonLoyaltyCardSetID">123rtrt</custom-attribute>
+				<custom-attribute attribute-id="pointAccount">12345cfhg</custom-attribute>
+				<custom-attribute attribute-id="preference">
+					<value>preference1</value>
+					<value>preference2</value>
+					<value>preference3</value>
+				</custom-attribute>
+				<custom-attribute attribute-id="preferences">zya123</custom-attribute>
+				<custom-attribute attribute-id="resetPassword">true</custom-attribute>
+				<custom-attribute attribute-id="rewardPoints">123</custom-attribute>
+				<custom-attribute attribute-id="PreferedStore">abc123</custom-attribute>
+				<custom-attribute attribute-id="NearestStore">abc123</custom-attribute>
+				<custom-attribute attribute-id="LoyaltyScore">123</custom-attribute>
+				<custom-attribute attribute-id="PreferedLanguage">English</custom-attribute>
+				<custom-attribute attribute-id="PreferedCountry">USA</custom-attribute>
+				<custom-attribute attribute-id="wasSubscriber">true</custom-attribute>
+				<custom-attribute attribute-id="subscriberDate">2017-06-07T08:50:15.000+0000</custom-attribute>
+				<custom-attribute attribute-id="AssignedCityState">abc</custom-attribute>
+				<custom-attribute attribute-id="preferredGiftingProduct">abc123</custom-attribute>
+				<custom-attribute attribute-id="preferredHomeProdct">abc123</custom-attribute>
+				<custom-attribute attribute-id="preferredPersonalProduct">abc123</custom-attribute>
+				<custom-attribute attribute-id="OriginalCountry">abc123</custom-attribute>
+				<custom-attribute attribute-id="EventsPreference">true</custom-attribute>
+				<custom-attribute attribute-id="PromotionsPreference">true</custom-attribute>
+				<custom-attribute attribute-id="NewsletterPreference">true</custom-attribute>
+				<custom-attribute attribute-id="LegacyCustomerNumber">abc123</custom-attribute>
+				<custom-attribute attribute-id="LegacyMarket">abc123</custom-attribute>
+            </custom-attributes>
+        </profile>
+        <addresses>
+            <address address-id="REDDY" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>Narendra Kumar</first-name>
+                <second-name/>
+                <last-name>Reddy</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>99 GREENE STREET</address1>
+                <address2>Address Line2</address2>
+                <suite/>
+                <postbox/>
+                <city>New York</city>
+                <postal-code>10012</postal-code>
+                <state-code>NY</state-code>
+                <country-code>us</country-code>
+                <phone>2112111111</phone>
+            </address>
+            <address address-id="96657" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Fn</first-name>
+                <second-name/>
+                <last-name>LN</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>FPO</city>
+                <postal-code>96657</postal-code>
+                <state-code>OTHER</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="AFBase" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>FN</first-name>
+                <second-name/>
+                <last-name>LN</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1100-1115 W Richmond Rd</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Fairchild Air Force Base</city>
+                <postal-code>99011</postal-code>
+                <state-code>WA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="Arizona" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Gainey Ranch</first-name>
+                <second-name/>
+                <last-name>Corporate Center</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>8800 North Gainey Center Drive,</address1>
+                <address2>Suite 205</address2>
+                <suite/>
+                <postbox/>
+                <city>Scottsdale</city>
+                <postal-code>85258</postal-code>
+                <state-code>AZ</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="CA-94945" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Narendra</first-name>
+                <second-name/>
+                <last-name>Reddy</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>7250 Redwood Blvd.</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Novato</city>
+                <postal-code>94945</postal-code>
+                <state-code>CA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="New Address" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>First Name</first-name>
+                <second-name/>
+                <last-name>Last Name</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>2701 Riverside Dr N 0001-0654</address1>
+                <address2>2701 Riverside Dr N 0001-0654</address2>
+                <suite/>
+                <postbox/>
+                <city>Ottawa</city>
+                <postal-code>45875</postal-code>
+                <state-code>OH</state-code>
+                <country-code>US</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="New York" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Narendra Kumar</first-name>
+                <second-name/>
+                <last-name>Reddy</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>Address Line2</address1>
+                <address2>99 Greene St</address2>
+                <suite/>
+                <postbox/>
+                <city>New York</city>
+                <postal-code>10012</postal-code>
+                <state-code>NY</state-code>
+                <country-code>US</country-code>
+                <phone>2112111111</phone>
+            </address>
+            <address address-id="PHOENIX" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Narendra Kumar</first-name>
+                <second-name/>
+                <last-name>Reddy</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>200 E MAIN ST</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>PHOENIX</city>
+                <postal-code>85123</postal-code>
+                <state-code>AZ</state-code>
+                <country-code>US</country-code>
+                <phone>2112111111</phone>
+            </address>
+            <address address-id="PO BOX 1022" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>FN</first-name>
+                <second-name/>
+                <last-name>LN</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>POB 65502</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>TUSCON</city>
+                <postal-code>85728</postal-code>
+                <state-code>AZ</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="TUCSON" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>CHRIS</first-name>
+                <second-name/>
+                <last-name>NISWANDEE</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>SMALLSYS INC</address1>
+                <address2>795 E DRAGRAM</address2>
+                <suite/>
+                <postbox/>
+                <city>TUCSON</city>
+                <postal-code>85705</postal-code>
+                <state-code>NY</state-code>
+                <country-code>US</country-code>
+                <phone>2112111111</phone>
+            </address>
+            <address address-id="Virginia" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>FN</first-name>
+                <second-name/>
+                <last-name>LN</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>12110 Sunset Hills Road</address1>
+                <address2>3rd Floor</address2>
+                <suite/>
+                <postbox/>
+                <city>Reston</city>
+                <postal-code>20190</postal-code>
+                <state-code>VA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+            <address address-id="WA POBOX" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>JOHN</first-name>
+                <second-name/>
+                <last-name>SMITH</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>100 MAIN ST</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>SEATTLE</city>
+                <postal-code>98104</postal-code>
+                <state-code>WA</state-code>
+                <country-code>us</country-code>
+                <phone>333-333-3333</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+</customers>
