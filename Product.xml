@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="Crabtree-US-Products">
+    <header>
+        <image-settings>
+            <internal-location base-path="/"/>
+            <view-types>
+                <view-type>large</view-type>
+                <view-type>medium</view-type>
+                <view-type>small</view-type>
+                <view-type>swatch</view-type>
+            </view-types>
+            <variation-attribute-id>Size</variation-attribute-id>
+            <alt-pattern>${productname}</alt-pattern>
+            <title-pattern>${productname}</title-pattern>
+        </image-settings>
+    </header>
+
+    <product product-id="Lav-Hand-Therapy">
+        <ean>123</ean>
+        <upc>xyz</upc>
+        <unit>1234565</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Ultra-Moisturising Hand Therapy</display-name>
+        <display-name xml:lang="es-MX">Crema Ultra-Hidratante de Manos</display-name>
+        <display-name xml:lang="fr-CA">Crème ultra hydratante pour les mains</display-name>
+        <short-description xml:lang="x-default">&lt;strong&gt;Kelp is at hand with this light, refreshing Eau De Toilette, along with mineral salts, algae and seaweed, whose green tendrils wrap you in a restorative embrace for all-over freshness.&lt;/strong&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Kelp is at hand with this light, refreshing Eau De Toilette, along with mineral salts, algae and seaweed, whose green tendrils wrap you in a restorative embrace for all-over freshness.&lt;/strong&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;</short-description>
+        <short-description xml:lang="es-MX">&lt;p&gt;Sella la humedad en tu piel con nuestra Terapia para Manos Lavender. Con aceite de nuez de macadamia, manteca de karité y aceite de lavanda, esta crema intensiva nutre la piel de forma que es notablemente más suave después de cada suntuosa aplicación.&lt;/p&gt;</short-description>
+        <short-description xml:lang="fr-CA">&lt;p&gt;Pour donner un bon coup de main à la peau sèche, rien de tel que notre crème ultra hydratante pour les mains, gagnante de nombreux prix. Enrichie de beurre de karité, d’huiles de macadamia et de lavande, cette crème intensive nourrit la peau, la rendant de plus en plus douce avec chaque application. &lt;/p&gt;</short-description>
+        <long-description xml:lang="x-default">&lt;p&gt;Lock in lashings of moisture with our Lavender Ultra-Moisturising Hand Therapy. Infused with macadamia nut oil, shea butter and lavender oil, this intensive cream nourishes skin so it’s noticeably smoother after each luxurious application. &lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Contains hydrating ceramides and antioxidant-rich vitamin E&lt;/li&gt;&#13;
+&lt;li&gt;Myrrh extract helps condition nails and cuticles&lt;/li&gt;&#13;
+&lt;li&gt;Formulated without mineral oil, parabens or propylene glycol&lt;/li&gt;&#13;
+&lt;/ul&gt;</long-description>
+        <long-description xml:lang="es-MX">&lt;p&gt;Sella la humedad en tu piel con nuestra Terapia para Manos Lavender. Con aceite de nuez de macadamia, manteca de karité y aceite de lavanda, esta crema intensiva nutre la piel de forma que es notablemente más suave después de cada suntuosa aplicación.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Contiene ceramidas hidratantes y vitamina E rica en antioxidantes&lt;/li&gt;&lt;li&gt;El extracto de mirra ayuda a acondicionar las uñas y cutículas&lt;/li&gt;&lt;li&gt;Formulada sin lauril sulfatos, aceites minerales, parabenos o glicol propileno&lt;/li&gt;&lt;/ul&gt;</long-description>
+        <long-description xml:lang="fr-CA">&lt;p&gt;Pour donner un bon coup de main à la peau sèche, rien de tel que notre crème ultra hydratante pour les mains, gagnante de nombreux prix. Enrichie de beurre de karité, d’huiles de macadamia et de lavande, cette crème intensive nourrit la peau, la rendant de plus en plus douce avec chaque application. &lt;/p&gt; &lt;ul&gt; &lt;li&gt;Contient des céramides hydratants et de la vitamine E riche en antioxydants &lt;/li&gt; &lt;li&gt;Extrait de myrrhe qui aide à revitaliser les ongles et les cuticules&lt;/li&gt; &lt;li&gt;Sans parabènes, huile minérale ni propylèneglycol &lt;/li&gt; &lt;/ul&gt;</long-description>
+        <store-receipt-name xml:lang="x-default">Dummy Store</store-receipt-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <online-from>2017-06-08T04:00:00.000Z</online-from>
+        <online-to>2018-04-25T04:00:00.000Z</online-to>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <images>
+            <image-group view-type="large">
+                <image path="BH_wip_v14.jpg"/>
+                <image path="Jellyfish.jpg"/>
+            </image-group>
+            <image-group view-type="large">
+                <variation attribute-id="Size" value="100g"/>
+                <image path="810902_alt2.png"/>
+                <image path="163568_alt0.png"/>
+            </image-group>
+            <image-group view-type="large">
+                <variation attribute-id="Size" value="250g"/>
+                <image path="810912_alt2.png"/>
+            </image-group>
+            <image-group view-type="medium">
+                <variation attribute-id="Size" value="100g"/>
+                <image path="810902_alt2.png"/>
+            </image-group>
+            <image-group view-type="small">
+                <variation attribute-id="Size" value="100g"/>
+                <image path="810902_alt2.png"/>
+            </image-group>
+            <image-group view-type="swatch">
+                <variation attribute-id="Size" value="100g"/>
+                <image path="810902_alt2.png"/>
+            </image-group>
+        </images>
+        <image>http://dev08-store-crabtree-evelyn.demandware.net/on/demandware.static/-/Sites-Crabtree-US-Products/default/dw6111f840/BH_wip_v14.jpg</image>
+        <thumbnail>http://dev08-store-crabtree-evelyn.demandware.net/on/demandware.static/-/Sites-Crabtree-US-Products/default/dw6111f840/BH_wip_v14.jpg</thumbnail>
+        <tax-class-id>Soap</tax-class-id>
+        <brand>Lavender</brand>
+        <manufacturer-name>Crabtree</manufacturer-name>
+        <manufacturer-sku>cae</manufacturer-sku>
+        <search-placement>8</search-placement>
+        <search-rank>3</search-rank>
+        <sitemap-included-flag>true</sitemap-included-flag>
+        <sitemap-changefrequency>never</sitemap-changefrequency>
+        <sitemap-priority>1.0</sitemap-priority>
+        <page-attributes>
+            <page-title xml:lang="x-default">Crabtree &amp; Evelyn Lavender Ultra-Moisturising Hand Therapy</page-title>
+            <page-description xml:lang="x-default">Lavender Ultra-Moisturising Hand Therapy</page-description>
+            <page-keywords xml:lang="x-default">Lavender, Ultra-Moisturising,hand, hands, hand therapy, handtherapy, ultra, macadamia, oil, shea butter, cream, lotion, creams, lotions, handcare, hand care, nail, nails, nail care, vitamin E, E, vitamins, vitamin</page-keywords>
+            <page-url xml:lang="x-default">http://dev08-store-crabtree-evelyn.demandware.net/s/cae_us/Lav-Hand-Therapy.html</page-url>
+        </page-attributes>
+        <custom-attributes>
+			<custom-attribute attribute-id="onlineExclusive">true</custom-attribute>
+			<custom-attribute attribute-id="onlineStartDate">2017-06-08T04:00:00.000Z</custom-attribute>
+			<custom-attribute attribute-id="Size">12</custom-attribute>
+			<custom-attribute attribute-id="Seasonal">false</custom-attribute>
+			<custom-attribute attribute-id="isExcludeTranslate">true</custom-attribute>
+			<custom-attribute attribute-id="lastImportForTranslationTarget">2017-06-08T04:00:00.000Z</custom-attribute>
+			<custom-attribute attribute-id="lastSentForTranslationTarget">2017-06-08T04:00:00.000Z</custom-attribute>
+			<custom-attribute attribute-id="lastModifiedExcludeCartridge">2017-06-08T04:00:00.000Z</custom-attribute>
+			<custom-attribute attribute-id="lastModifiedCartridge">2017-06-08T04:00:00.000Z</custom-attribute>
+			<custom-attribute attribute-id="caMarketPlace">zyz123</custom-attribute>
+			<custom-attribute attribute-id="pdpcontentassetone">zyz123</custom-attribute>
+			<custom-attribute attribute-id="pdpcontentassettwo">zyz123</custom-attribute>
+			<custom-attribute attribute-id="pdpcontentassetthree">zyz123</custom-attribute>
+			<custom-attribute attribute-id="pdpcontentassetfour">zyz123</custom-attribute>
+			<custom-attribute attribute-id="lovedBy">100</custom-attribute>
+			<custom-attribute attribute-id="firstaward">zyz123</custom-attribute>
+			<custom-attribute attribute-id="secondaward">zyz123</custom-attribute>
+			<custom-attribute attribute-id="thirdaward">zyz123</custom-attribute>
+			<custom-attribute attribute-id="connectType">true</custom-attribute>
+			<custom-attribute attribute-id="inspireType">true</custom-attribute>
+			<custom-attribute attribute-id="discoverType">true</custom-attribute>
+			<custom-attribute attribute-id="recalledDate">2017-06-08T04:00:00.000Z</custom-attribute>
+			<custom-attribute attribute-id="isRecalled">false</custom-attribute>
+			<custom-attribute attribute-id="InfoandUsage">&lt;strong&gt;Kelp is at hand with this .&lt;/strong&gt;&#13;</custom-attribute>
+			<custom-attribute attribute-id="EveryDayCareTags">xyz123</custom-attribute>
+			<custom-attribute attribute-id="FragranceTags">xyz123</custom-attribute>
+			<custom-attribute attribute-id="instagramMediaID">xyz123</custom-attribute>
+			<custom-attribute attribute-id="collection"> 
+				<value>indian sandalwood</value>
+				<value>heritage soaps</value>
+			</custom-attribute>
+			<custom-attribute attribute-id="gender"> 
+				<value>Male</value>
+				<value>Female</value>
+				<value>Unisex</value>
+			</custom-attribute>
+            <custom-attribute attribute-id="ProductStockAlertLevel">100</custom-attribute>
+            <custom-attribute attribute-id="availableForInStorePickup">false</custom-attribute>
+            <custom-attribute attribute-id="bvAverageRating">4</custom-attribute>
+            <custom-attribute attribute-id="bvRatingRange">125</custom-attribute>
+            <custom-attribute attribute-id="bvReviewCount">12</custom-attribute>
+            <custom-attribute attribute-id="ingredients" xml:lang="x-default">&lt;strong&gt;Kelp is at hand with this light, refreshing Eau De Toilette, along with mineral salts, algae and seaweed, whose green tendrils wrap you in a restorative embrace for all-over freshness.&lt;/strong&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Kelp is at hand with this light, refreshing Eau De Toilette, along with mineral salts, algae and seaweed, whose green tendrils wrap you in a restorative embrace for all-over freshness.&lt;/strong&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;</custom-attribute>
+            <custom-attribute attribute-id="isNew">false</custom-attribute>
+            <custom-attribute attribute-id="isNewtest">false</custom-attribute>
+            <custom-attribute attribute-id="isSale">false</custom-attribute>
+            <custom-attribute attribute-id="sheets">
+                <value>value1</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="skinConcern">
+                <value>dryTight</value>
+                <value>comprehensive</value>
+            </custom-attribute>
+            <custom-attribute attribute-id="tabDescription">Lock in lashings of moisture with our Lavender Ultra-Moisturising Hand Therapy.</custom-attribute>
+            <custom-attribute attribute-id="tabDetails">Contains hydrating ceramides and antioxidant-rich vitamin E</custom-attribute>
+            <custom-attribute attribute-id="usage" xml:lang="x-default">&lt;strong&gt;Kelp is at hand with this light, refreshing Eau De Toilette, along with mineral salts, algae and seaweed, whose green tendrils wrap you in a restorative embrace for all-over freshness.&lt;/strong&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Kelp is at hand with this light, refreshing Eau De Toilette, along with mineral salts, algae and seaweed, whose green tendrils wrap you in a restorative embrace for all-over freshness.&lt;/strong&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Think of it as bottled sea spray… in a good way. Delicate notes of citrus, amber, petitgrain and basil, lift the scent for everyday wear and long-lasting invigoration. &#13;
+A crisp, clean scent for renewal and energy. Breeze through the day with the full power of the sea behind you by spritzing all over or directly on to neck and wrists for a more concentrated fragrance.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Suitable for everyday wear&lt;/li&gt;&#13;
+&lt;li&gt;Marine and citrus top notes&lt;/li&gt;&#13;
+&lt;li&gt;Amber, petitgrain and basil base notes&lt;/li&gt;&#13;
+&lt;/ul&gt;</custom-attribute>
+        </custom-attributes>
+        <variations>
+            <attributes>
+                <shared-variation-attribute attribute-id="size" variation-attribute-id="Size"/>
+            </attributes>
+            <variants>
+                <variant product-id="797421B"/>
+                <variant product-id="797371"/>
+                <variant product-id="81094" default="true"/>
+            </variants>
+        </variations>
+        <classification-category>Hand Therapy</classification-category>
+        <pinterest-enabled-flag>true</pinterest-enabled-flag>
+        <facebook-enabled-flag>true</facebook-enabled-flag>
+        <store-attributes>
+            <receipt-name xml:lang="x-default">Dummy Store</receipt-name>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <variation-attribute attribute-id="size" variation-attribute-id="Size">
+        <display-name xml:lang="x-default">Size</display-name>
+        <display-name xml:lang="es-MX">Tamaño</display-name>
+        <display-name xml:lang="fr-CA">Format</display-name>
+        <variation-attribute-values>
+            <variation-attribute-value value="25g">
+                <display-value xml:lang="x-default">25g</display-value>
+                <description xml:lang="x-default">25g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="40g">
+                <display-value xml:lang="x-default">40g</display-value>
+                <description xml:lang="x-default">40g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="50g">
+                <display-value xml:lang="x-default">50g</display-value>
+                <description xml:lang="x-default">50g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="85g">
+                <display-value xml:lang="x-default">85g</display-value>
+                <description xml:lang="x-default">85g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="100g">
+                <display-value xml:lang="x-default">100g</display-value>
+                <description xml:lang="x-default">100g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="140g">
+                <display-value xml:lang="x-default">140g</display-value>
+                <description xml:lang="x-default">140g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="150g">
+                <display-value xml:lang="x-default">150g</display-value>
+                <description xml:lang="x-default">150g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="200g">
+                <display-value xml:lang="x-default">200g</display-value>
+                <description xml:lang="x-default">200g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="250g">
+                <display-value xml:lang="x-default">250g</display-value>
+                <description xml:lang="x-default">250g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="275g">
+                <display-value xml:lang="x-default">275g</display-value>
+                <description xml:lang="x-default">275g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="300g">
+                <display-value xml:lang="x-default">300g</display-value>
+                <description xml:lang="x-default">300g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="25ml">
+                <display-value xml:lang="x-default">25ml</display-value>
+                <description xml:lang="x-default">25ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="30ml">
+                <display-value xml:lang="x-default">30ml</display-value>
+                <description xml:lang="x-default">30ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="50ml">
+                <display-value xml:lang="x-default">50ml</display-value>
+                <description xml:lang="x-default">50ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="100ml">
+                <display-value xml:lang="x-default">100ml</display-value>
+                <description xml:lang="x-default">100ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="200ml">
+                <display-value xml:lang="x-default">200ml</display-value>
+                <description xml:lang="x-default">200ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="245ml">
+                <display-value xml:lang="x-default">245ml</display-value>
+                <description xml:lang="x-default">245ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="250ml">
+                <display-value xml:lang="x-default">250ml</display-value>
+                <description xml:lang="x-default">250ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="300ml">
+                <display-value xml:lang="x-default">300ml</display-value>
+                <description xml:lang="x-default">300ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="500ml">
+                <display-value xml:lang="x-default">500ml</display-value>
+                <description xml:lang="x-default">500ml</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="3 X 85g">
+                <display-value xml:lang="x-default">3 X 85g</display-value>
+                <description xml:lang="x-default">3 X 85g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="3 X 100g">
+                <display-value xml:lang="x-default">3 X 100g</display-value>
+                <description xml:lang="x-default">3 X 100g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="3 x 140g">
+                <display-value xml:lang="x-default">3 x 140g</display-value>
+                <description xml:lang="x-default">3 x 140g</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="Standard">
+                <display-value xml:lang="x-default">Standard</display-value>
+                <description xml:lang="x-default">Standard</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="Mini">
+                <display-value xml:lang="x-default">Mini</display-value>
+                <description xml:lang="x-default">Mini</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="XS">
+                <display-value xml:lang="x-default">Extra Small</display-value>
+                <description xml:lang="x-default">Extra Small</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="S">
+                <display-value xml:lang="x-default">Small</display-value>
+                <description xml:lang="x-default">Small</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="M">
+                <display-value xml:lang="x-default">Medium</display-value>
+                <description xml:lang="x-default">Medium</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="L">
+                <display-value xml:lang="x-default">Large</display-value>
+                <description xml:lang="x-default">Large</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="XL">
+                <display-value xml:lang="x-default">Extra Large</display-value>
+                <description xml:lang="x-default">Extra Large</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="XS/S">
+                <display-value xml:lang="x-default">Extra Small / Small</display-value>
+                <description xml:lang="x-default">Extra Small / Small</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="M/L">
+                <display-value xml:lang="x-default">Medium / Large</display-value>
+                <description xml:lang="x-default">Medium / Large</description>
+            </variation-attribute-value>
+        </variation-attribute-values>
+    </variation-attribute>
+
+    <category-assignment category-id="Hand Therapy" product-id="Lav-Hand-Therapy">
+        <primary-flag>true</primary-flag>
+    </category-assignment>
+
+</catalog>
